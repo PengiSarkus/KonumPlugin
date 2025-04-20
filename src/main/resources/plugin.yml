@@ -1,0 +1,7 @@
+name: KonumPlugin
+version: '${project.version}'
+main: com.sarkus.konumplugin.KonumPlugin
+api-version: '1.21'
+commands:
+  konum:
+    description: Konumları kaydeder, listeler ve ışınlanır.
